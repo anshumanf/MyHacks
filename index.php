@@ -57,6 +57,7 @@
 
 <div class="content">
 <h1>YUI Carousel from Flickr</h1>
+View the carousel <a href="carousel.php">here</a>
 </div>
 
 <div class="content">
